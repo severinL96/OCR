@@ -1,0 +1,11 @@
+batch: 64
+epochs: 3
+embeddingDimEncoder: 72
+embeddingDimDecoder: 100
+hiddendDimDecoder: 128
+hiddendDimEncoder : 128
+n_layersEncoder: 1
+n_layersDecoder: 1
+dropout_Encoder: 0.3
+dropout_Decoder: 0.3
+lr: 1e-3
